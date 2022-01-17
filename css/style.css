@@ -2574,6 +2574,9 @@ hr {
   .header_social {
     display: none;
   }
+  .scrollA{
+    transform:none;
+  }
 
   .menu-btn {
     visibility: visible;
